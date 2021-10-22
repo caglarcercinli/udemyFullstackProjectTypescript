@@ -1,1 +1,3 @@
-console.log("hello world");
+var firstName = 'anup';
+var lastName = 'kumar';
+console.log("hi " + firstName + " " + lastName);
